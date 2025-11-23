@@ -1,4 +1,4 @@
-# Programming-Tic-Tac-Toe-ProjectsTic-Tac-Toe Game in Python
+Tic-Tac-Toe Game in Python
 
 1. Introduction
 ---------------
