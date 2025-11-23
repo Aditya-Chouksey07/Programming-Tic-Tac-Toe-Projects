@@ -7,6 +7,7 @@ It runs in the terminal and lets two players, X and O, take turns by entering po
 from 1 to 9. The goal of this project was to practice basic Python concepts while creating
 a small but complete working game. It uses simple logic, lists, and functions—making it perfect for beginners.
 
+
 2. How the Game Works
 ----------------------
 - The game uses a list with 9 positions to represent the 3×3 board.
@@ -26,6 +27,8 @@ There are 8 possible ways to win:
 - 3 columns
 - 2 diagonals
 The player will win if he/she can fill any one of these lines with their symbol.
+
+
 4. Running the Game
 - -----------------------
 
@@ -37,6 +40,8 @@ The player will win if he/she can fill any one of these lines with their symbol.
 4. To run the program, type:
 python tic_tac_toe.py
 5. Observe whatever is displayed on the screen.
+
+
 5. What You Learn From This Project
 ---------------------------------
 
@@ -45,6 +50,7 @@ python tic_tac_toe.py
 - How loops and conditions create the flow of the game
 - How to accept and validate player input
 - How simple game logic is designed and implemented
+
 
 6. File Structure
 -----------------
