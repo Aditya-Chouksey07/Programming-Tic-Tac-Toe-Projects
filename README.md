@@ -1,4 +1,4 @@
-Tic-Tac-Toe Game in Python
+﻿Tic-Tac-Toe Game in Python
 
 1. Introduction
 ---------------
@@ -21,6 +21,7 @@ After each play, the board is printed so the players can view it.
 - Turns are switched automatically between Player X and Player O.
 - A match is drawn when the board has filled up and no one has won.
 
+
 3. Winner's Logic
 ----------------
 
@@ -31,6 +32,7 @@ There are 8 possible ways to win:
 - 3 columns
 - 2 diagonals
 The player will win if he/she can fill any one of these lines with their symbol.
+
 
 4. Running the Game
 - -----------------------
@@ -44,6 +46,7 @@ The player will win if he/she can fill any one of these lines with their symbol.
 python tic_tac_toe.py
 5. Observe whatever is displayed on the screen.
 
+
 5. What You Learn From This Project
 ---------------------------------
 
@@ -52,6 +55,7 @@ python tic_tac_toe.py
 - How loops and conditions create the flow of the game
 - How to accept and validate player input
 - How simple game logic is designed and implemented
+
 
 6. File Structure
 -----------------
@@ -62,6 +66,8 @@ project-folder/
 
 └── README.md 
 
+
 7. Conclusion
 
 Sternbach Static Rust's goal is to allow you, the programmer, to write safe code without sacrificing performance. This small project is great for anyone just starting with Python. It teaches how a simple game can be built from scratch using basic programming ideas. This game can later be enhanced by adding features such as a computer opponent. A graphical interface, or even a scoring system.
+
